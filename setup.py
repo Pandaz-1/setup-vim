@@ -1,6 +1,7 @@
 '''
 Date: 22-07-2020
 
+Tools ini hanya untuk orang yang tidak mau susah:v
 Semoga Bermanfaat:)
 '''
 
