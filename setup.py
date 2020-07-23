@@ -14,7 +14,7 @@ def instal():
 
     # Move Folder
     os.system('mkdir ~/.vim')
-    os.system('mkdir ~/.v/bundle')
+    os.system('mkdir ~/.vim/bundle')
     os.system('cp -r Vundle.vim ~/.vim/bundle')
     os.system('rm /data/data/com.termux/files/usr/share/vim/vimrc')
     os.system('cp vimrc /data/data/com.termux/files/usr/share/vim/vimrc')
